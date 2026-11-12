@@ -13,10 +13,10 @@ patches:
 images:
 - name: PROJECT/BROADCASTER
   newName: ghcr.io/rkonti/broadcaster
-  newTag: "4.9"
+  newTag: "4.10"
 - name: PROJECT/TODO-APP
   newName: ghcr.io/rkonti/todo-app
-  newTag: "4.9"
+  newTag: "4.10"
 - name: PROJECT/TODO-BACKEND
   newName: ghcr.io/rkonti/todo-backend
-  newTag: "4.9"
+  newTag: "4.10"
